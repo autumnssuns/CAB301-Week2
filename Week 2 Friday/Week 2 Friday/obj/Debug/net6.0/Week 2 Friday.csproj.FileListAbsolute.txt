@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\bin\Debug\net6.0\Week 2 Friday.exe
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\bin\Debug\net6.0\Week 2 Friday.deps.json
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\bin\Debug\net6.0\Week 2 Friday.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\bin\Debug\net6.0\Week 2 Friday.dll
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\bin\Debug\net6.0\Week 2 Friday.pdb
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.dll
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\refint\Week 2 Friday.dll
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.pdb
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\Week 2 Friday.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Week 2 Friday\obj\Debug\net6.0\ref\Week 2 Friday.dll

@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\bin\Debug\net6.0\Question 4 and 5.exe
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\bin\Debug\net6.0\Question 4 and 5.deps.json
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\bin\Debug\net6.0\Question 4 and 5.runtimeconfig.json
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\bin\Debug\net6.0\Question 4 and 5.dll
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\bin\Debug\net6.0\Question 4 and 5.pdb
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.AssemblyInfo.cs
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.dll
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\refint\Question 4 and 5.dll
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.pdb
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\Question 4 and 5.genruntimeconfig.cache
+C:\Users\MELTUser01\source\repos\Week 2 Friday\Question 4 and 5\obj\Debug\net6.0\ref\Question 4 and 5.dll
